@@ -1,0 +1,1 @@
+../../../SensorsAnalyticsSDK/SensorsAnalyticsSDK/VisualizedAutoTrack/SAVisualizedAutoTrackAbstractMessage.h

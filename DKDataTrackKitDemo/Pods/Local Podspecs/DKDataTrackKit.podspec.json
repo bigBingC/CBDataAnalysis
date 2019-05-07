@@ -1,0 +1,33 @@
+{
+  "name": "DKDataTrackKit",
+  "version": "0.0.1",
+  "summary": "数据埋点统计",
+  "description": "无侵入埋点统计控件",
+  "homepage": "https://github.com/bigBingC",
+  "license": "MIT",
+  "authors": {
+    "cuibing": "cuibing@dankegongyu.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/bigBingC/DKDataTrackKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Class",
+    "Class/**/*.{h,m}"
+  ],
+  "exclude_files": "Class/Exclude",
+  "resource_bundles": {
+    "DKDataTrackKit": [
+      "Class/**/*.{storyboard,xib,xcassets,plist,jpg,png,pch}"
+    ]
+  },
+  "dependencies": {
+    "SensorsAnalyticsSDK": [
+
+    ]
+  }
+}

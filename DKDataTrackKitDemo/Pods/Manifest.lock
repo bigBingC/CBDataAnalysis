@@ -1,0 +1,25 @@
+PODS:
+  - DKDataTrackKit (0.0.1):
+    - SensorsAnalyticsSDK
+  - SensorsAnalyticsSDK (1.11.0):
+    - SensorsAnalyticsSDK/core (= 1.11.0)
+  - SensorsAnalyticsSDK/core (1.11.0)
+
+DEPENDENCIES:
+  - DKDataTrackKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SensorsAnalyticsSDK
+
+EXTERNAL SOURCES:
+  DKDataTrackKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DKDataTrackKit: 6f7626167207c1fc29ed60a819e12ff9913603e2
+  SensorsAnalyticsSDK: bca6f6d880efffdee9402573084046b138201ab4
+
+PODFILE CHECKSUM: 54ef5c638f523a023cd464c265172095a36d5069
+
+COCOAPODS: 1.6.1

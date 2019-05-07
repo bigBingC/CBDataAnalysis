@@ -1,0 +1,1 @@
+../../../SensorsAnalyticsSDK/SensorsAnalyticsSDK/HeatMap/SAAbstractHeatMapMessage.h
