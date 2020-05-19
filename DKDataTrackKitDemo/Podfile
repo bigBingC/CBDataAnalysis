@@ -4,7 +4,6 @@
 target 'DKDataTrackKitDemo' do
   
   pod 'DKDataTrackKit', :path => '../'
-#  pod 'DKCorePodResourceUtil',:git => 'git@gitlab.danke.life:iosGroup/DKCorePodResourceUtil.git',:tag => 'v0.0.1',:inhibit_warnings => true
 
   target 'DKDataTrackKitDemoTests' do
     inherit! :search_paths
